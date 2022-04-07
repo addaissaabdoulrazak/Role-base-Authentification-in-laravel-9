@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <p>Bonjour adda issa abdoul razak</p>
+    <p>Bonjour adda issa abdoul razak vous êtes Administrateur</p>
 </body>
 
 </html>
